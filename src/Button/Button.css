@@ -1,0 +1,23 @@
+.number{
+  background-color: #c7c7c7;
+  color: #424346;
+  outline: 1px solid #949599;
+  font-weight: 100;
+  font-size: 36px;
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+.operator{
+  background-color: #f98410; 
+  color: #fff6f9;
+  flex-grow: 1;
+  font-size: 36px;
+  outline: 1px solid #ca5200;
+  font-weight: 100;
+  font-family: 'Roboto', sans-serif;
+}
+
+.equal{
+    grid-column: span 2;
+}
